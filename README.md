@@ -3,7 +3,7 @@ Multi-Energy System Py (MES-Py)
 
 ### Description
 
-The Multi-Energy System Py (MES-Py) model main objective is to provide an open-source alternative to the problem of sizing and dispatch of energy in multi-energy systems in isolated places. It’s written in python(pyomo) and use excel and text files as input and output data handling and visualization.
+The Multi-Energy System Py (MES-Py) model main objective is to provide an open-source alternative to the problem of sizing and dispatch of energy in multi-energy systems in isolated places. It’s written in python(pyomo) and use excel and text files as input and output data handling and visualization. It is an expansion of the existing Micro-Grids Py library, developed by S.Balderrama and S.Quoilin.
 
 Main features:
 
